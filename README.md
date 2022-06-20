@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vector-gru
 - 👀 I’m interested in computers and robotics
-- 🌱 I’m currently learning Kotlin and Android Development in Android Studio
+- 🌱 I’m currently learning Java, Kotlin and Android Development in Android Studio
 - 💞️ I’m looking to collaborate on Android Kotlin projects
 - 📫 How to reach me on Facebook-Vector Gru, Instagram-popelouis1
 
