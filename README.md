@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vector-gru
 - 👀 I’m interested in computers and robotics
-- 🌱 I’m currently learning Java, Kotlin and Android Development in Android Studio
-- 💞️ I’m looking to collaborate on Android Kotlin projects
-- 📫 How to reach me on Facebook-Vector Gru, Instagram-popelouis1
+- 🌱 I’m currently learning Java, Dart, Flutter, Android and iOS App Development
+- 💞️ I’m looking to collaborate on Java and Flutter projects
+- 📫 How to reach me on Facebook-Vector Gru, email- popelouis1@outlook.com
 
 <!---
 vector-gru/vector-gru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
