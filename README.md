@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vector-gru
 - 👀 I’m interested in computers and robotics
-- 🌱 I’m currently learning Java, Dart, Flutter, Android and iOS App Development
+- 🌱 I’m currently developing in Java, Dart, Flutter, Android and iOS App Development
 - 💞️ I’m looking to collaborate on Java and Flutter projects
 - 📫 How to reach me on Facebook-Vector Gru, email- popelouis1@outlook.com
 
